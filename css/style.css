@@ -1,6 +1,13 @@
+
 .spanstyle {
     float: right;
 }
 #hr1{
-   border: 1px solid black;
+    height: 1px;
+    background-color:black;
+    border: 1px solid #000;
+    color: black;
+}
+#footerHr{
+    margin: 0 200px;
 }
